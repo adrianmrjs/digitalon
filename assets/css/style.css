@@ -265,7 +265,7 @@ label {
   -webkit-border-radius: 30px;
   -moz-border-radius: 30px;
   border-radius: 30px;
-  background-color: #3066ff;
+  background-color: #000000;
   width: 90px;
   overflow: hidden
 }
@@ -654,7 +654,7 @@ label {
 
 .header-top {
   padding: 10px 0;
-  background: linear-gradient(60deg, #2a5cff 0%, #54a0ff 100%)
+  background:  #00163a
 }
 
 .header-top-wrapper {
@@ -1072,7 +1072,7 @@ button.navbar-toggler:focus {
   width: 100%;
   top: 0;
   left: 0;
-  background: rgba(0, 10, 22, .7);
+  background: rgba(0, 10, 22, 0.473);
   z-index: -1
 }
 
